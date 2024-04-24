@@ -1,16 +1,36 @@
-### Hi there 👋
+# Eudes Silva | Transformando Linhas de Código em Soluções Inovadoras
 
-<!--
-**Eudesjs/Eudesjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋 Sou Eudes Silva, um graduando entusiasta em Análise e Desenvolvimento de Sistemas. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Estou atualmente estudando Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Estou Cursando Análise de Dados pela [Soulcode](https://soulcode.com/)
+- 🌱 Estou sempre aprendendo novas tecnologias e buscando aprimorar minhas habilidades.
+- 💡 Adoro trabalhar em projetos desafiadores que me permitem expandir meu conhecimento e criatividade.
+- 📫 Como entrar em contato comigo: [Meu E-mail](eudsjs@gmail.com)
+
+## Linguagens e Ferramentas
+
+- JavaScript
+- HTML/CSS
+- Python
+- Git/GitHub
+- Data Analysis
+- MySQL
+- PostgreSQL
+- GCP(Google Cloud Platform)
+- 
+
+## Projetos
+
+- [Jogos de Dados](https://github.com/Eudesjs/Projetos_Python): Meu Primeiro projeto.
+
+
+## Contato
+
+Você pode me encontrar nas seguintes plataformas:
+
+- [LinkedIn](linkedin.com/in/devops-eudes-silva)
+- [GitHub](https://github.com/Eudesjs)
+- [instagram](https://instagram.com/@eudes_silvaofc)
