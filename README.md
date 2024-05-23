@@ -1,26 +1,28 @@
+![images](https://github.com/Eudesjs/Eudesjs/assets/134567785/dc187bd5-905c-4954-b76b-00743d0730cd)
+
+
 # Eudes Silva | Transformando Linhas de Código em Soluções Inovadoras
 
-Olá! 👋 Sou Eudes Silva, um graduando entusiasta em Análise e Desenvolvimento de Sistemas. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras.
+Olá! 👋 Sou Eudes Silva, um graduando entusiasta em Análise e Desenvolvimento de Sistemas com curso de especialização em Análise de Dados. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras.
 
 ## Sobre Mim
 
 - 👨‍💻 Estou atualmente estudando Análise e Desenvolvimento de Sistemas.
-- 👨‍💻 Estou Cursando Análise de Dados pela [Soulcode](https://soulcode.com/)
+- 👨‍💻 Especialização em Análise de Dados pela [Soulcode](https://soulcode.com/)
 - 🌱 Estou sempre aprendendo novas tecnologias e buscando aprimorar minhas habilidades.
 - 💡 Adoro trabalhar em projetos desafiadores que me permitem expandir meu conhecimento e criatividade.
 - 📫 Como entrar em contato comigo: [Meu E-mail](eudsjs@gmail.com)
 
 ## Linguagens e Ferramentas
 
-- JavaScript
-- HTML/CSS
+- Power BI
+- Looker Studio
 - Python
 - Git/GitHub
 - Data Analysis
 - MySQL
 - PostgreSQL
 - GCP(Google Cloud Platform)
-- 
 
 ## Projetos
 
