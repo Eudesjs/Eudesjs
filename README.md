@@ -17,7 +17,7 @@ Olá! 👋 Sou Eudes Silva, um graduando entusiasta em Análise e Desenvolviment
 
 - Power BI
 - Looker Studio
-- Python
+- Linguagem #Python#
 - Git/GitHub
 - Data Analysis
 - MySQL
