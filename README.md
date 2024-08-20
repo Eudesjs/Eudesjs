@@ -36,3 +36,4 @@ Você pode me encontrar nas seguintes plataformas:
 - [LinkedIn](linkedin.com/in/devops-eudes-silva)
 - [GitHub](https://github.com/Eudesjs)
 - [instagram](https://instagram.com/@eudes_silvaofc)
+- [WhatsApp](+5581983501684)
